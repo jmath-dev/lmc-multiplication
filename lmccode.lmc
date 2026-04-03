@@ -1,0 +1,27 @@
+        INP 
+        STA j
+        INP
+        STA count
+
+// Iterative accumulation: adds j while count >= 0
+loop    LDA result
+	ADD j
+        STA result
+	LDA count
+
+	SUB one 
+        STA count
+        BRP loop
+
+// Adjusts result to correct extra iteration
+LDA result
+SUB j
+STA result
+OUT
+HLT     
+
+// Output result	
+one     DAT 1
+count   DAT 0     
+j       DAT 0
+result  DAT 0
