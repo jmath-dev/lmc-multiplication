@@ -9,4 +9,4 @@ The domain is defined as D(f) = N², and the codomain is a natural value resulti
 Rule of correspondence: The function associates each pair f(x, y) with its product.
 
 ## preview
-![](2026-04-06_15-41.png)
+![:](2026-04-06_15-41.png)
