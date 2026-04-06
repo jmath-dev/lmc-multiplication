@@ -7,3 +7,6 @@ The program represents the function F(x, y) = x * y. It is defined as a function
 The domain is defined as D(f) = N², and the codomain is a natural value resulting from the multiplication of two natural numbers.
 
 Rule of correspondence: The function associates each pair f(x, y) with its product.
+
+## Rule
+![Fluxograma](2026-04-06_15-41.png)
