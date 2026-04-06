@@ -1,6 +1,6 @@
 # LMC Multiplication Simulator
 
-This repository contains assembly code written for the [Little Man Computer (LMC)](https://www.101computing.net/lmc/) simulator.
+This repository contains assembly code written for the Little Man Computer (LMC) simulator.
 
 The program represents the function F(x, y) = x * y. It is defined as a function of two natural variables, mapping ordered pairs from a two-dimensional space to the real line.
 
@@ -9,9 +9,10 @@ The domain is defined as D(f) = N², and the codomain is a natural value resulti
 Rule of correspondence: The function associates each pair f(x, y) with its product.
 
 ## Preview
-
 ![preview](2026-04-06_15-41.png)
 
 ## Fluxograma
-
 ![flowchart](fluxograma_v2.png)
+
+## Execução 2
+![execucao2](2026-04-06_17-31.png)
