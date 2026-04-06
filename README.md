@@ -2,4 +2,8 @@
 
 This repository contains assembly code written for the [Little Man Computer (LMC)](https://www.101computing.net/lmc/) simulator.  
 
-O programa representa função F(x, y)= x*y é definida como uma função de duas variáveis naturais, mapeando pares ordenados do espaço bidimensional para a reta real. Onde o Domínio e definido por D(f)=N² e o o contradominio por uma saída natural resultante da multiplicação de dois naturais. Regra de correspondência: A função associa a cada par f(x, y) com o seu produto.
+The program represents the function F(x, y) = x * y. It is defined as a function of two natural variables, mapping ordered pairs from a two-dimensional space to the real line.
+
+The domain is defined as D(f) = N², and the codomain is a natural value resulting from the multiplication of two natural numbers.
+
+Rule of correspondence: The function associates each pair f(x, y) with its p
