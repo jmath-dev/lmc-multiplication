@@ -14,4 +14,4 @@ Rule of correspondence: The function associates each pair f(x, y) with its produ
 
 ## Fluxograma
 
-![flowchart](2026-04-06_16-53.png)
+![flowchart](fluxograma_v2.png)
